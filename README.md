@@ -23,5 +23,5 @@ make clean
 
 ## Testing
 ```bash
-make test
+python -m pytest .
 ```
